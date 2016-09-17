@@ -17,5 +17,3 @@ Steps to Building Project
         3. Use js to change html code to display quote and author
     d. Figure out how to use Twitter's API
         1. Once I read docs, tweet button should open new tab to tweet quote/author
-    e. Figure out how to use Facebook's API
-        1. Once I read docs, fb button should open new tab to post quote/author
