@@ -6,6 +6,21 @@
 }
 
 body {
+    background-color: black;
+}
+
+/* Fade In/Out Effects */
+body, .quote-text, .source {
+    opacity: 1;
+    transition: 1s opacity;
+}
+body.fade-out, .quote-text.fade-out, .source.fade-out {
+    opacity: 0;
+    transition: none;
+}
+/* CSS for the Body */
+
+body {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -28,7 +43,7 @@ body {
     margin: 10% auto 6% auto;
     line-height: 30px;
     font-size: 20px;
-    color: #77b1a9;
+    color: #272822;
 }
 
 .fa-quote-left {
