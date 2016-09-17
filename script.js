@@ -7,11 +7,31 @@ you're right.", "Henry Ford"], ["Perfection is not \
 attainable, but if we chase perfection we can catch \
 excellence.", "Vince Lombardi"], ["Life is 10% what \
 happens to me and 90% how I react to it.", "Charles \
-Swindoll"]]
+Swindoll"], ["If you look at what you have in life, \
+you’ll always have more. If you look at what you don’t \
+have in life, you’ll never have enough.", "Oprah Winfrey"],
+["Remember no one can make you feel inferior without your \
+consent.", "Eleanor Roosevelt"],["I can’t change the \
+direction of the wind, but I can adjust my sails to \
+always reach my destination.", "Jimmy Dean"], ["Believe \
+you can and you’re halfway there.", "Theodore Roosevelt"],
+["Too many of us are not living our dreams because we are \
+living our fears.", "Les Brown"], ["Do or do not. There is \
+no try.", "Yoda"], ["Whatever the mind of man can conceive and \
+believe, it can achieve.", "Napolean Hill"], ["Strive not to \
+be a success, but rather to be of value.", "Albert Einstein"],
+["I am not a product of my circumstances. I am a product \
+of my decisions.", "Stephen Covey"], ["The most difficult \
+thing is the decision to act, the rest is merely tenacity",
+"Amelia Earhart"],["When everything seems to be going against \
+you, remember that the airplance takes off against the wind, \
+not with it.", "Henry Ford"], ["The only way to do great work \
+is to love what you do.", "Steve Jobs"]]
 };
 
 var colors = {
-    color: ["77b1a9", "D6B2E8", "3FB15E", "B15500", "B12700"]
+    color: ["77b1a9", "D6B2E8", "3FB15E", "B15500", "B12700",
+    "00A397", "CE6919", "540500", "5405E7", "C4CE59"]
 };
 
 function getNewQuote() {
