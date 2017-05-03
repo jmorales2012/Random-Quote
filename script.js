@@ -24,7 +24,7 @@ be a success, but rather to be of value.", "Albert Einstein"],
 of my decisions.", "Stephen Covey"], ["The most difficult \
 thing is the decision to act, the rest is merely tenacity",
 "Amelia Earhart"],["When everything seems to be going against \
-you, remember that the airplance takes off against the wind, \
+you, remember that the airplane takes off against the wind, \
 not with it.", "Henry Ford"], ["The only way to do great work \
 is to love what you do.", "Steve Jobs"]]
 };
@@ -79,7 +79,7 @@ function tweetQuote() {
     // Store the author in the author variable
     var author = document.getElementsByClassName("source")[0].innerHTML;
 
-    // Takes off the "-" from the quote
+    // Takes off the "-" from the quote source
     author = author.slice(1);
 
     var tweetText = quote + author + "#quotes";
